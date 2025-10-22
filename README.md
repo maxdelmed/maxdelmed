@@ -26,35 +26,34 @@
 
 **Languages (Programming, Markup, Stylesheet, etc.)**
 <p align="left">
-  <img height="28" src="https://cdn.simpleicons.org/html5" />
-  <img height="28" src="https://cdn.simpleicons.org/css3" />
-  <img height="28" src="https://cdn.simpleicons.org/javascript" />
-  <img height="28" src="https://cdn.simpleicons.org/typescript" />
-  <img height="28" src="https://cdn.simpleicons.org/python" />
-  <img height="28" src="https://cdn.simpleicons.org/java" />
-  <img height="28" src="https://cdn.simpleicons.org/php" />
-  <img height="28" src="https://cdn.simpleicons.org/csharp" />
+  <img height="28" src="https://cdn.simpleicons.org/html5/E34F26" title="HTML5"/>
+  <img height="28" src="https://cdn.simpleicons.org/css3/1572B6" title="CSS3"/>
+  <img height="28" src="https://cdn.simpleicons.org/javascript/F7DF1E" title="JavaScript"/>
+  <img height="28" src="https://cdn.simpleicons.org/typescript/3178C6" title="TypeScript"/>
+  <img height="28" src="https://cdn.simpleicons.org/python/3776AB" title="Python"/>
+  <img height="28" src="https://cdn.simpleicons.org/php/777BB4" title="PHP"/>
+  <img height="28" src="https://cdn.simpleicons.org/csharp/239120" title="C#"/>
 </p>
 
 **Frameworks, Platforms, Libraries, etc.**
 <p align="left">
-  <img height="28" src="https://cdn.simpleicons.org/nodedotjs" />
-  <img height="28" src="https://cdn.simpleicons.org/nestjs" />
-  <img height="28" src="https://cdn.simpleicons.org/docker" />
-  <img height="28" src="https://cdn.simpleicons.org/express" />
-  <img height="28" src="https://cdn.simpleicons.org/nextdotjs" />
-  <img height="28" src="https://cdn.simpleicons.org/nginx" />
-  <img height="28" src="https://cdn.simpleicons.org/redis" />
-  <img height="28" src="https://cdn.simpleicons.org/mongodb" />
-  <img height="28" src="https://cdn.simpleicons.org/mysql" />
-  <img height="28" src="https://cdn.simpleicons.org/flask" />
+  <img height="28" src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node.js"/>
+  <img height="28" src="https://cdn.simpleicons.org/nestjs/E0234E" title="NestJS"/>
+  <img height="28" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker"/>
+  <img height="28" src="https://cdn.simpleicons.org/express/000000" title="Express"/>
+  <img height="28" src="https://cdn.simpleicons.org/nextdotjs/000000" title="Next.js"/>
+  <img height="28" src="https://cdn.simpleicons.org/nginx/009639" title="Nginx"/>
+  <img height="28" src="https://cdn.simpleicons.org/redis/DC382D" title="Redis"/>
+  <img height="28" src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB"/>
+  <img height="28" src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL"/>
+  <img height="28" src="https://cdn.simpleicons.org/flask/000000" title="Flask"/>
 </p>
 
 **Databases**
 <p align="left">
-  <img height="28" src="https://cdn.simpleicons.org/mysql" />
-  <img height="28" src="https://cdn.simpleicons.org/redis" />
-  <img height="28" src="https://cdn.simpleicons.org/mongodb" />
+  <img height="28" src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL"/>
+  <img height="28" src="https://cdn.simpleicons.org/redis/DC382D" title="Redis"/>
+  <img height="28" src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB"/>
 </p>
 
 ---
