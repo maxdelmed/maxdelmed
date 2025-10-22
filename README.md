@@ -84,6 +84,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelmed&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
 
 ## Popular repositories
 - [**nodecord**](https://github.com/maxdelmed/nodecord) – A powerful Node.js framework for efficient Discord bots  
