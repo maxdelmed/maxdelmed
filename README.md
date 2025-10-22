@@ -5,6 +5,11 @@
 
 # I'm Max Phillipe De la Fuente Medina!
 
+![Profile views](https://komarev.com/ghpvc/?username=maxdelmed&style=flat-square&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/maxdelmed?style=social)
+![Twitter Follow](https://img.shields.io/twitter/follow/maxdelmed?style=social)
+
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=maxdelmed&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
