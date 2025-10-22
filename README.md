@@ -27,8 +27,9 @@
 **Languages (Programming, Markup, Stylesheet, etc.)**
 <p align="left">
   <img height="28" src="https://cdn.simpleicons.org/html5/E34F26" title="HTML5"/>
-  <img height="28" src="https://cdn.simpleicons.org/css3/1572B6" title="CSS3"/>
+  <img height="28" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS"/>
   <img height="28" src="https://cdn.simpleicons.org/javascript/F7DF1E" title="JavaScript"/>
+   <img height="28" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="Java"/>
   <img height="28" src="https://cdn.simpleicons.org/typescript/3178C6" title="TypeScript"/>
   <img height="28" src="https://cdn.simpleicons.org/python/3776AB" title="Python"/>
   <img height="28" src="https://cdn.simpleicons.org/php/777BB4" title="PHP"/>
