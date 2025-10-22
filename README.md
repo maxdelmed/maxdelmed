@@ -1,4 +1,7 @@
 👋 Hey there!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=35&fontColor=ffffff" />
+</p>
 
 # I'm Max Phillipe De la Fuente Medina!
 
