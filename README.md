@@ -59,18 +59,6 @@
 
 ---
 
----
-
-## 👤 Personal Stuff
-- I’m a passionate developer who loves backend development.  
-- I’m a TypeScript geek :)  
-- You can ask me anything! I’m happy to help.  
-- I love rock, nu metal, and grunge music.  
-- I’m a fan of Kurt Cobain, Chester Bennington, and Corey Taylor.  
-- Currently studying Software Engineering at Fidélitas University.
-
----
-
 ## 📫 How to reach me
 - Email: [max@example.com](mailto:max@example.com)  
 - Twitter: [@maxdelmed](https://twitter.com/maxdelmed)  
@@ -84,21 +72,3 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelmed&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## Popular repositories
-- [**nodecord**](https://github.com/maxdelmed/nodecord) – A powerful Node.js framework for efficient Discord bots  
-- [**flask-fullstack-template**](https://github.com/maxdelmed/flask-fullstack-template) – A full stack app with Flask, MySQL, Nginx, Redis  
-- [**tse-webscrapper**](https://github.com/maxdelmed/tse-webscrapper) – Web scraper for electoral data  
-- [**ccr**](https://github.com/maxdelmed/ccr) – Correos de Costa Rica API wrapper  
-
----
-
-## 📈 Contributions
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=maxdelmed&theme=github-dark&hide_border=true&area=true" />
-</p>
