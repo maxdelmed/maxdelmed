@@ -1,74 +1,85 @@
-👋 Hey there!
+<div align="center">
+  <img src="./assets/banner.png" width="100%" alt="Banner de Wadwool">
+</div>
+
+<img src="./image/line1.gif" height="80" width="100%" alt="">
+
+<img align="left" src="./assets/profile_pic.jpg" width="300" alt="Ilustración del bloque de perfil">
+
+```text
+maxdelmed@github
+-------------------------
+🏫 Universidad Fidélitas
+💻 Ingeniería en Sistemas
+📁 Trabajos de la U
+🛠️ Proyectos personales de software
+```
+
+[Proyectos](#proyectos) · [Tecnologías](#tecnologías) · [Carrd](https://wadwool.carrd.co)
+
+<br clear="left">
+
+<h2 align="left">📇 Tecnologías</h2>
+
+<img src="./image/knowledge.gif" width="380" align="right" alt="">
+
+<p>
+  <img src="./image/html.svg" alt="HTML">
+  <img src="./image/css.svg" alt="CSS">
+  <img src="./image/javascript.svg" alt="JavaScript">
+  <img src="./image/React.svg" alt="React">
+</p>
+<p>
+  <img src="./image/Node.svg" alt="Node.js">
+  <img src="./image/Express.svg" alt="Express">
+  <img src="./image/MySQL.svg" alt="MySQL">
+  <img src="./image/MongoDB.svg" alt="MongoDB">
+</p>
+<p><b>También:</b> TypeScript, Java, Python, PHP, C#, NestJS, Next.js, Flask, Docker, Nginx, Redis y Supabase.</p>
+
+<br clear="right">
+
+<h2 align="center">⌨️ Proyectos 🖱️</h2>
+
+<p align="center"><img src="./image/work_ex.gif" alt=""></p>
+
+### Trabajos de la U
+
+**Quantik** · Juego de tablero en ensamblador x86 para DOS con guardado de partidas.
+
+### Proyectos personales
+
+- **Mis finanzas** · App web para registrar gastos en colones y llevar un presupuesto mensual. [Abrir app](https://maxdelmed.github.io/wwwrld-finanzas/).
+- **Sala de estudio** · Sala en línea con chat y temporizador Pomodoro compartido.
+- **Magicite Mod** · Mod para Minecraft Forge con cristales coleccionables y hechizos cooperativos.
+- **Recapping for Discord** · Bot que resume conversaciones para ponerse al día en Discord.
+
+<h2 align="right">📝 Enlaces</h2>
+
+<img src="./image/contact-me.gif" align="left" width="370" alt="">
+
+<p align="center"><a href="https://wadwool.carrd.co"><b>Wadley Wool · Carrd</b></a></p>
+
+<br clear="left">
+
+<p align="center"><img src="./image/hxh.gif" width="100%" alt=""></p>
+
+<h2 align="center">⚔️ Actividad de GitHub 🛡️</h2>
+
+<img src="./image/line2.gif" align="right" width="280" alt="">
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=200&section=header&text=Welcome%20to%20my%20profile!&fontSize=35&fontColor=ffffff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maxdelmed&amp;theme=shades-of-purple&amp;show_icons=true" width="390" alt="Estadísticas de @maxdelmed">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelmed&amp;layout=compact&amp;theme=shades-of-purple" width="390" alt="Lenguajes más usados en los repositorios públicos">
 </p>
 
-# I'm Max Phillipe De la Fuente Medina!
+<br clear="right">
 
-![Profile views](https://komarev.com/ghpvc/?username=maxdelmed&style=flat-square&color=blue)
-![GitHub followers](https://img.shields.io/github/followers/maxdelmed?style=social)
-![Twitter Follow](https://img.shields.io/twitter/follow/maxdelmed?style=social)
+<p align="center"><a href="https://github.com/egorthinks/git-bonsai"><img src="./output/bonsai-growth.gif" width="220" alt="Git Bonsai animado"></a></p>
 
+<h2 align="center">💖 Gracias por visitar el perfil 💖</h2>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=maxdelmed&theme=onedark&no-frame=true&row=1&column=6" alt="trophies" />
-</p>
+<p align="center"><img src="./image/the-end.gif" width="100%" alt=""></p>
 
-<!-- GitHub stats -->
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=maxdelmed&show_icons=true&theme=dark&hide_border=true" alt="stats"/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=maxdelmed&theme=dark&hide_border=true" alt="streak"/>
-</p>
-
----
-
-## 💻 Experience / Tech Stack
-
-**Languages (Programming, Markup, Stylesheet, etc.)**
-<p align="left">
-  <img height="28" src="https://cdn.simpleicons.org/html5/E34F26" title="HTML5"/>
-  <img height="28" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" title="CSS"/>
-  <img height="28" src="https://cdn.simpleicons.org/javascript/F7DF1E" title="JavaScript"/>
-   <img height="28" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png" title="Java"/>
-  <img height="28" src="https://cdn.simpleicons.org/typescript/3178C6" title="TypeScript"/>
-  <img height="28" src="https://cdn.simpleicons.org/python/3776AB" title="Python"/>
-  <img height="28" src="https://cdn.simpleicons.org/php/777BB4" title="PHP"/>
-  <img height="28" src="https://cdn.simpleicons.org/csharp/239120" title="C#"/>
-</p>
-
-**Frameworks, Platforms, Libraries, etc.**
-<p align="left">
-  <img height="28" src="https://cdn.simpleicons.org/nodedotjs/339933" title="Node.js"/>
-  <img height="28" src="https://cdn.simpleicons.org/nestjs/E0234E" title="NestJS"/>
-  <img height="28" src="https://cdn.simpleicons.org/docker/2496ED" title="Docker"/>
-  <img height="28" src="https://cdn.simpleicons.org/express/000000" title="Express"/>
-  <img height="28" src="https://cdn.simpleicons.org/nextdotjs/000000" title="Next.js"/>
-  <img height="28" src="https://cdn.simpleicons.org/nginx/009639" title="Nginx"/>
-  <img height="28" src="https://cdn.simpleicons.org/redis/DC382D" title="Redis"/>
-  <img height="28" src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB"/>
-  <img height="28" src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL"/>
-  <img height="28" src="https://cdn.simpleicons.org/flask/000000" title="Flask"/>
-</p>
-
-**Databases**
-<p align="left">
-  <img height="28" src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL"/>
-  <img height="28" src="https://cdn.simpleicons.org/redis/DC382D" title="Redis"/>
-  <img height="28" src="https://cdn.simpleicons.org/mongodb/47A248" title="MongoDB"/>
-</p>
-
----
-
-## 📫 How to reach me
-- Email: [max@example.com](mailto:max@example.com)  
-- Twitter: [@maxdelmed](https://twitter.com/maxdelmed)  
-- IG: [@maxdelmed](https://instagram.com/maxdelmed)
-
----
-
-## 🎧 Currently Listening on Spotify
-<p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=YOUR_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" width="450" />
-</p>
-
----
+<p align="center"><sub>Diseño basado en <a href="https://github.com/huy232/huy232">huy232</a>.</sub></p>
