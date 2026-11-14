@@ -90,8 +90,6 @@ maxdelmed@github
 
 <p align="center"><a href="https://github.com/egorthinks/git-bonsai"><img src="./output/bonsai-growth.gif" width="220" alt="Git Bonsai animado"></a></p>
 
-<h2 align="center">💖 Gracias por visitar el perfil 💖</h2>
+<h2 align="center">💖 Thank you 💖</h2>
 
 <p align="center"><img src="./image/the-end.gif" width="100%" alt=""></p>
-
-<p align="center"><sub>Diseño basado en <a href="https://github.com/huy232/huy232">huy232</a>.</sub></p>
