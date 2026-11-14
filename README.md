@@ -81,9 +81,9 @@ maxdelmed@github
 <img src="./image/line2.gif" align="right" width="280" alt="">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maxdelmed&amp;theme=shades-of-purple&amp;show_icons=true" width="390" alt="Estadísticas de @maxdelmed">
+  <img src="./assets/github-stats.svg" width="390" alt="My stats">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxdelmed&amp;layout=compact&amp;theme=shades-of-purple" width="390" alt="Lenguajes más usados en los repositorios públicos">
+  <img src="./assets/github-languages.svg" width="390" alt="Lenguajes más usados">
 </p>
 
 <br clear="right">
