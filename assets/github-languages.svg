@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="139" viewBox="0 0 390 139" role="img" aria-label="Lenguajes en repos públicos">
+<rect x="0.5" y="0.5" width="389" height="138" rx="12" fill="#151222" stroke="#594777"/>
+<g font-family="Verdana, sans-serif">
+<text x="20" y="32" fill="#eab5ff" font-size="16" font-weight="bold">Lenguajes en repos públicos</text>
+<rect x="20.000" y="47" width="200.454" height="8" fill="#e29e6d"/>
+<circle cx="24" cy="74" r="4" fill="#e29e6d"/>
+<text x="33" y="78" fill="#e9e3f6" font-size="11">Java · 57,3%</text>
+<rect x="220.454" y="47" width="118.194" height="8" fill="#ff8b9b"/>
+<circle cx="199" cy="74" r="4" fill="#ff8b9b"/>
+<text x="208" y="78" fill="#e9e3f6" font-size="11">HTML · 33,8%</text>
+<rect x="338.648" y="47" width="10.839" height="8" fill="#8cb1ff"/>
+<circle cx="24" cy="95" r="4" fill="#8cb1ff"/>
+<text x="33" y="99" fill="#e9e3f6" font-size="11">TypeScript · 3,1%</text>
+<rect x="349.487" y="47" width="5.544" height="8" fill="#c8a6fc"/>
+<circle cx="199" cy="95" r="4" fill="#c8a6fc"/>
+<text x="208" y="99" fill="#e9e3f6" font-size="11">CSS · 1,6%</text>
+<rect x="355.031" y="47" width="5.505" height="8" fill="#f4e3a1"/>
+<circle cx="24" cy="116" r="4" fill="#f4e3a1"/>
+<text x="33" y="120" fill="#e9e3f6" font-size="11">Shell · 1,6%</text>
+<rect x="360.536" y="47" width="9.464" height="8" fill="#8780a5"/>
+<circle cx="199" cy="116" r="4" fill="#8780a5"/>
+<text x="208" y="120" fill="#e9e3f6" font-size="11">Otros · 2,7%</text>
+</g>
+</svg>
