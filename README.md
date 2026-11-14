@@ -1,3 +1,4 @@
+### WIP!!!
 <div align="center">
   <img src="./assets/banner.png" width="100%" alt="Banner de Wadley Wool">
 </div>
@@ -12,13 +13,16 @@ maxdelmed@github
 💻 Ingeniería en Sistemas
 📁 Proyectos Universitarios
 🛠️ Proyectos personales de software
+-
+-
+-
 ```
 
 [Proyectos](#proyectos) · [Tecnologías](#tecnologías) · [Carrd](https://wadwool.carrd.co)
 
 <br clear="left">
 
-<h2 align="left">📇 Tecnologías</h2>
+<h2 align="left">📇 Tecnologies</h2>
 
 <img src="./image/knowledge.gif" width="380" align="right" alt="">
 
@@ -51,18 +55,18 @@ maxdelmed@github
 
 <br clear="right">
 
-<h2 align="center">⌨️ Proyectos 🖱️</h2>
+<h2 align="center">⌨️ Proyects !! </h2>
 
 <p align="center"><img src="./image/work_ex.gif" alt=""></p>
 
-### Proyectos personales
+### Proyectos personales (WIP, not everything is added yet oops. Still merging accounts)
 
 - **Mis finanzas** · App web para registrar gastos en colones y llevar un presupuesto mensual. [Abrir app](https://maxdelmed.github.io/wwwrld-finanzas/).
 - **Sala de estudio** · Sala en línea con chat y temporizador compartido.
 - **Magicite Mod** · Mod basado en el combate de Final Fantasy Crystal Chronicles para Forge 1.20.1.
 - **Recapping for Discord** · Bot para Discord que resume conversaciones.
 
-<h2 align="right">📝 Enlaces</h2>
+<h2 align="right">📝 Links</h2>
 
 <img src="./image/contact-me.gif" align="left" width="370" alt="Animación de la sección Enlaces">
 
@@ -72,7 +76,7 @@ maxdelmed@github
 
 <p align="center"><img src="./image/hxh.gif" width="100%" alt=""></p>
 
-<h2 align="center">⚔️ Actividad de GitHub 🛡️</h2>
+<h2 align="center">⚔️ Activity !! </h2>
 
 <img src="./image/line2.gif" align="right" width="280" alt="">
 
