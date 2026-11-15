@@ -108,15 +108,21 @@ maxdelmed@github
 <img src="./image/line2.gif" align="right" width="280" alt="">
 
 <p align="center">
-  <img src="./assets/github-stats.svg" width="390" alt="My stats">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=maxdelmed&amp;hide=stars,prs,issues,contribs&amp;hide_rank=true&amp;include_all_commits=true&amp;custom_title=Actividad%20en%20GitHub&amp;locale=es&amp;card_width=390&amp;border_radius=12&amp;bg_color=151222&amp;title_color=eab5ff&amp;text_color=d0c5e5&amp;border_color=594777" width="390" alt="Actividad en GitHub">
   <br>
-  <img src="./assets/github-languages.svg" width="390" alt="Lenguajes más usados">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=maxdelmed&amp;layout=compact&amp;langs_count=6&amp;locale=es&amp;card_width=390&amp;border_radius=12&amp;bg_color=151222&amp;title_color=eab5ff&amp;text_color=d0c5e5&amp;border_color=594777" width="390" alt="Lenguajes más usados">
 </p>
 
 <br clear="right">
 
 <p align="center"><a href="https://github.com/egorthinks/git-bonsai"><img src="./output/bonsai-growth.gif" width="220" alt="Git Bonsai animado"></a></p>
 
-<h2 align="center">💖 Thank you 💖</h2>
+<h2 align="center">💖 Thank you for reading my profile! As a thank you gift I've prepared a Pokémon Wordle-type game below. You're free to play it whenever you want!</h2>
+
+<p align="center">
+  <a href="https://maxdelmed.github.io/daily-dex/">
+    <img src="https://maxdelmed.github.io/daily-dex/daily-dex-card.png" alt="Play Wadwool’s Daily Dex">
+  </a>
+</p>
 
 <p align="center"><img src="./image/the-end.gif" width="100%" alt=""></p>
