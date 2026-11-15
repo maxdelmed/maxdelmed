@@ -63,8 +63,16 @@ maxdelmed@github
 
 - **Mis finanzas** · App web para registrar gastos en colones y llevar un presupuesto mensual. [Abrir app](https://maxdelmed.github.io/wwwrld-finanzas/).
 - **Sala de estudio** · Sala en línea con chat y temporizador compartido.
-- **Magicite Mod** · Mod basado en el combate de Final Fantasy Crystal Chronicles para Forge 1.20.1.
+- **Magicite Mod** · Mod basado en el uso de magia de Final Fantasy Crystal Chronicles | Forge 1.20.1.
 - **Recapping for Discord** · Bot para Discord que resume conversaciones.
+- **Outfit Atelier** · Mod para la creación de prendas de ropa completamente custom desde dentro del servidor host | Forge 1.20.1.
+- 
+- 
+- 
+- 
+-
+-
+-
 
 <h2 align="right">📝 Links</h2>
 
