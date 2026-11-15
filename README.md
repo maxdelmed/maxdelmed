@@ -1,6 +1,6 @@
 ### WIP!!!
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Banner de Wadley Wool">
+  <img src="./assets/banner.png" width="100%" alt="Banner de Wadwool">
 </div>
 <img src="./image/line1.gif" height="80" width="100%" alt="">
 
@@ -59,26 +59,44 @@ maxdelmed@github
 
 <p align="center"><img src="./image/work_ex.gif" alt=""></p>
 
-### Proyectos personales (WIP, not everything is added yet oops. Still merging accounts)
-
-- **Mis finanzas** · App web para registrar gastos en colones y llevar un presupuesto mensual. [Abrir app](https://maxdelmed.github.io/wwwrld-finanzas/).
+### Personal Projects (WIP, not everything is added yet oops. Still merging from old acc)
+## ESP
+- **Mis finanzas** · App web para registrar gastos en colones y llevar un presupuesto mensual [Test](https://maxdelmed.github.io/wwwrld-finanzas/).
 - **Sala de estudio** · Sala en línea con chat y temporizador compartido.
 - **Magicite Mod** · Mod basado en el uso de magia de Final Fantasy Crystal Chronicles | Forge 1.20.1.
-- **Recapping for Discord** · Bot para Discord que resume conversaciones.
+- **Recapping for Discord** · Bot para Discord que resume conversaciones en el canal que le pidan.
 - **Outfit Atelier** · Mod para la creación de prendas de ropa completamente custom desde dentro del servidor host | Forge 1.20.1.
-- **Stained Glass Studio** · 
-- **Custom Shop Signs**
-- **Player Bounty Boards**
-- **Restaurant Menus**
-- **Ship in a Bottle**
-- **Caravan Contracts**
-- **Moving Day Crates**
-- **Waystone Charts**
+- **Stained Glass Studio** · Creación de vidrieras personalizadas con enfoque en el rendimiento | Forge 1.20.1
+- **Custom Shop Signs** · Como su nombre indica, es un mod que añade diversas formas de crear y personalizar letreros, permitiéndote
+- **Player Bounty Boards** · Complemento para *Bountiful*. Añade la posibilidad de crear recompensas y objetivos personalizados.
+- **Restaurant Menus** · ---
+- **Ship in a Bottle** · ---
+- **Caravan Contracts** · ---
+- **Moving Day Crates** · ---
+- **Waystone Charts** · ---
+
+## ENG
+- **Mis finanzas** · Web app made to register expenses in "colones" and to track a monthly budget [Test](https://maxdelmed.github.io/wwwrld-finanzas/).
+- **Sala de estudio** · Online room with a shared timer.
+- **Magicite Mod** · Mod based on Final Fantasy Crystal Chronicles' magic use | Forge 1.20.1.
+- **Recapping for Discord** · Discord bot made to summarize conversations in any channel.
+- **Outfit Atelier** · Mod that adds complete custom clothing creation from within the server | Forge 1.20.1
+- **Stained Glass Studio** · Performance first custom stained glassmaking | Forge 1.20.1
+- **Custom Shop Signs** · As the name implies, it is a mod that adds a variety of ways to make and stamp a sign so you can decorate as you wish with them | Forge 1.20.1
+- **Player Bounty Boards** · Bountiful Addon. Adds the ability to make custom bounties and rewards.
+- **Restaurant Menus** · ---
+- **Ship in a Bottle** · ---
+- **Caravan Contracts** · ---
+- **Moving Day Crates** · ---
+- **Waystone Charts** · ---
 
 <h2 align="right">📝 Links</h2>
 
 <img src="./image/contact-me.gif" align="left" width="370" alt="Animación de la sección Enlaces">
 
+<p align="center"><a href="https://wadwool.carrd.co"><b>Wadley Wool · Carrd</b></a></p>
+<p align="center"><a href="https://wadwool.carrd.co"><b>Wadley Wool · Carrd</b></a></p>
+<p align="center"><a href="https://wadwool.carrd.co"><b>Wadley Wool · Carrd</b></a></p>
 <p align="center"><a href="https://wadwool.carrd.co"><b>Wadley Wool · Carrd</b></a></p>
 
 <br clear="left">
