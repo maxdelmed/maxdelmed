@@ -1,0 +1,26 @@
+name: Constellation
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 13 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Sur1ive/contribution-fx@v1
+        with:
+          github_user_name: maxdelmed
+          outputs: |
+            dist/constellation.svg?theme=constellation&mode=dark
+
+      - uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: constellation-output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
