@@ -1,4 +1,4 @@
-### WIP!!!
+### WIP, IGNORE ME (NOT FINISHED)!!!
 <div align="center">
   <img src="./assets/banner.png" width="100%" alt="Banner de Wadwool">
 </div>
