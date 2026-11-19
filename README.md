@@ -9,13 +9,11 @@
 ```text
 maxdelmed@github
 -------------------------
-🏫 Universidad Fidélitas
-💻 Ingeniería en Sistemas
-📁 Proyectos Universitarios
-🛠️ Proyectos personales de software
--
--
--
+- Universidad Fidélitas
+      Ingeniería en Sistemas
+
+Este perfil es para Proyectos universitarios y
+proyectos personales de software.
 ```
 
 [Proyectos](#proyectos) · [Tecnologías](#tecnologías) · [Carrd](https://wadwool.carrd.co)
@@ -74,6 +72,7 @@ maxdelmed@github
 - **Caravan Contracts** · ---
 - **Moving Day Crates** · ---
 - **Waystone Charts** · ---
+- etc (WIP)
 
 ## ENG
 - **Mis finanzas** · Web app made to register expenses in "colones" and to track a monthly budget [Test](https://maxdelmed.github.io/wwwrld-finanzas/).
@@ -89,6 +88,7 @@ maxdelmed@github
 - **Caravan Contracts** · ---
 - **Moving Day Crates** · ---
 - **Waystone Charts** · ---
+- etc (WIP)
 
 <h2 align="right">📝 Links</h2>
 
@@ -115,7 +115,7 @@ maxdelmed@github
   <img src="https://raw.githubusercontent.com/maxdelmed/maxdelmed/constellation-output/constellation.svg" width="720" alt="GitHub contributions as an animated constellation">
 </p>
 
-<h2 align="center">💖 Thank you for reading my profile! As a thank you gift I've prepared a Pokémon Wordle-type game below. You're free to play it whenever you want!</h2>
+<h2 align="center">💖 Thank you for reading my profile! As a thank you gift I've prepared a Pokémon Wordle-type game below. You're free to play it whenever you want! I'll try making it better whenever I have the time.</h2>
 
 <p align="center">
   <a href="https://maxdelmed.github.io/daily-dex/">
