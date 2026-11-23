@@ -53,44 +53,68 @@ proyectos personales de software.
 
 <br clear="right">
 
-<h2 align="center">⌨️ Proyects !! </h2>
+## Proyectos
 
-<p align="center"><img src="./image/work_ex.gif" alt=""></p>
+<p align="center">
+  <img src="./image/work_ex.gif" width="280" alt="">
+</p>
 
-### Personal Projects (WIP, not everything is added yet oops. Still merging from old acc)
-## ESP
-- **Mis finanzas** · App web para registrar gastos en colones y llevar un presupuesto mensual [Test](https://maxdelmed.github.io/wwwrld-finanzas/).
+<p align="center"><strong><code>▶ SELECT A PROJECT</code></strong></p>
+
+| Project | Description |
+| --- | --- |
+| [![Magicite Echoes](https://img.shields.io/badge/Magicite%20Echoes-52476B?style=for-the-badge)](https://github.com/maxdelmed/Magicite-Echoes) | A Minecraft Forge 1.20.1 mod inspired by the magic system in Final Fantasy Crystal Chronicles. |
+| [![Moving Day Crates](https://img.shields.io/badge/Moving%20Day%20Crates-65764D?style=for-the-badge)](https://github.com/maxdelmed/Moving-Day-Crates) | Moving day! Use crates to pack chests and other container furniture and take them with you to your new home. |
+
+<details>
+<summary><strong>More projects</strong></summary>
+
+**Web & Discord**
+
+- **Sala de estudio** · Online study room with chat and a shared timer.
+- **Recapping for Discord** · A bot that summarizes conversations in a selected Discord channel.
+
+**Minecraft mods · Forge 1.20.1**
+
+- **Outfit Atelier** · Design custom outfits in-game on a server.
+- **Stained Glass Studio** · Make custom stained-glass designs with a focus on performance.
+- **Custom Shop Signs** · Create and customize signs for shops.
+- **Player Bounty Boards** · A Bountiful add-on for creating custom bounties and rewards.
+
+</details>
+
+<details>
+<summary><strong>Ver en español</strong></summary>
+
+**Destacados**
+
+- **[Magicite Echoes](https://github.com/maxdelmed/Magicite-Echoes)** · Mod basado en el uso de magia de Final Fantasy Crystal Chronicles para Forge 1.20.1.
+- **[Moving Day Crates](https://github.com/maxdelmed/Moving-Day-Crates)** · ¡Día de mudanza! Usa cajas para empacar cofres y otros muebles de almacenamiento y llevarlos a tu nueva casa.
+
+**Web y Discord**
+
 - **Sala de estudio** · Sala en línea con chat y temporizador compartido.
-- **Magicite Mod** · Mod basado en el uso de magia de Final Fantasy Crystal Chronicles | Forge 1.20.1.
-- **Recapping for Discord** · Bot para Discord que resume conversaciones en el canal que le pidan.
-- **Outfit Atelier** · Mod para la creación de prendas de ropa completamente custom desde dentro del servidor host | Forge 1.20.1.
-- **Stained Glass Studio** · Creación de vidrieras personalizadas con enfoque en el rendimiento | Forge 1.20.1
-- **Custom Shop Signs** · Como su nombre indica, es un mod que añade diversas formas de crear y personalizar letreros, permitiéndote
-- **Player Bounty Boards** · Complemento para *Bountiful*. Añade la posibilidad de crear recompensas y objetivos personalizados.
-- **Restaurant Menus** · ---
-- **Ship in a Bottle** · ---
-- **Caravan Contracts** · ---
-- **Moving Day Crates** · ---
-- **Waystone Charts** · ---
-- 
-- etc (WIP)
+- **Recapping for Discord** · Bot que resume conversaciones de un canal seleccionado de Discord.
 
-## ENG
-- **Mis finanzas** · Web app made to register expenses in "colones" and to track a monthly budget [Test](https://maxdelmed.github.io/wwwrld-finanzas/).
-- **Sala de estudio** · Online room with a shared timer.
-- **Magicite Mod** · Mod based on Final Fantasy Crystal Chronicles' magic use | Forge 1.20.1.
-- **Recapping for Discord** · Discord bot made to summarize conversations in any channel.
-- **Outfit Atelier** · Mod that adds complete custom clothing creation from within the server | Forge 1.20.1
-- **Stained Glass Studio** · Performance first custom stained glassmaking | Forge 1.20.1
-- **Custom Shop Signs** · As the name implies, it is a mod that adds a variety of ways to make and stamp a sign so you can decorate as you wish with them | Forge 1.20.1
-- **Player Bounty Boards** · Bountiful Addon. Adds the ability to make custom bounties and rewards.
-- **Restaurant Menus** · ---
-- **Ship in a Bottle** · ---
-- **Caravan Contracts** · ---
-- **Moving Day Crates** · ---
-- **Waystone Charts** · ---
-- 
-- etc (WIP)
+**Mods de Minecraft · Forge 1.20.1**
+
+- **Outfit Atelier** · Diseño de atuendos personalizados dentro del juego en un servidor.
+- **Stained Glass Studio** · Diseño de vidrieras personalizadas con enfoque en el rendimiento.
+- **Custom Shop Signs** · Creación y personalización de letreros para tiendas.
+- **Player Bounty Boards** · Complemento para Bountiful que permite crear objetivos y recompensas personalizados.
+
+</details>
+
+<details>
+<summary><strong>On the workbench · En el taller</strong></summary>
+
+- Restaurant Menus
+- Ship in a Bottle
+- Caravan Contracts
+- Waystone Charts
+
+</details>
+
 
 <h2 align="right">📝 Links</h2>
 
